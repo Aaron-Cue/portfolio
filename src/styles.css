@@ -855,8 +855,8 @@ strong {
   .efecto-escribir {
     white-space: normal;
     overflow: visible;
-    animation: none;
-    width: auto;
+    animation: none !important;
+    width: auto !important;
   }
 
   .efecto-escribir::after {
