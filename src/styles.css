@@ -641,25 +641,28 @@ hr {
   gap: 9px;
 }
 
-.footer-redes img {
-  width: 19px;
-  filter: grayscale(1);
+.footer-redes-a {
+  width: 33px;
+  height: 33px;
   border: 1px solid var(--footer-border-a);
   background: var(--footer-background-a);
   padding: 5px;
-  box-sizing: content-box;
   border-radius: 8px;
-  object-fit: contain;
   cursor: pointer;
+  display: grid;
+  place-content: center;
 }
 
-.footer-redes img:nth-child(2),
-.footer-redes img:nth-child(1) {
+.footer-redes img {
+  width: 100%;
+}
+
+.footer-redes-a:nth-child(1), .footer-redes-a:nth-child(2) {
   filter: grayscale(1) brightness(1.75);
 }
 
-.footer-redes img:nth-child(3) {
-  filter: grayscale(1) brightness(0.88);
+.footer-redes-a:nth-child(3) {
+  filter: grayscale(1) brightness(0.85);
 }
 
 .subtitle {
