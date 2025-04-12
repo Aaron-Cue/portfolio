@@ -296,6 +296,10 @@ h1 {
   margin-bottom: 12px;
 }
 
+#img-gmail {
+  height: 22px;
+}
+
 .inicio-icons {
   display: flex;
   justify-content: center;
