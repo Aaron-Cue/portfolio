@@ -44,13 +44,14 @@
       </button>
       <div id="menu" class="menu">
         <a class="a-menu" href="#projects" data-translate="header-projects"
-            >&lt;Proyectos/&gt;</a
-          >
-          <a class="a-menu" href="#about-me" data-translate="header-about-me"
-            >&lt;Sobre mi/&gt;</a
-          >
-          <a class="a-menu" href="#footer" data-translate="header-contact"
-            >&lt;Contacto/&gt;</a>
+          >&lt;Proyectos/&gt;</a
+        >
+        <a class="a-menu" href="#about-me" data-translate="header-about-me"
+          >&lt;Sobre mi/&gt;</a
+        >
+        <a class="a-menu" href="#footer" data-translate="header-contact"
+          >&lt;Contacto/&gt;</a
+        >
       </div>
       <a href="#" class="a-logo" aria-label="logo"
         ><img id="logo" src="./assets/logo.png" alt="logo personal"
@@ -205,18 +206,13 @@
             />
             <div class="info-project">
               <p class="title-project" data-translate="title-project-1">
-                titulo proyecto 1
+                Todo App
               </p>
               <p
                 class="description-project"
                 data-translate="description-project-1"
               >
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed
-                quidem eius accusamus sint unde cumque, impedit nobis omnis
-                voluptas quis corporis harum, aliquam quas repudiandae vero esse
-                itaque vel quasi. Lorem ipsum dolor sit amet, consectetur
-                adipisicing elit. Nostrum vero, numquam placeat tenetur veniam
-                nesciunt autem hic vitae voluptm.
+                Permite agregar tareas, marcarlas como completadas, eliminarlas, y todo con persistencia de datos en localStorage. Interfaz sencilla y rápida, construida con React, usando useState para manejar el estado de las tareas, useEffect para sincronizar con localStorage, y useRef para gestionar referencias en el formulario
               </p>
               <div class="tecnologies-project">
                 <div class="tecnologie">react</div>
@@ -338,6 +334,12 @@
             <div class="slide">
               <img src="./assets/github-dark.svg" alt="logo github" />
             </div>
+            <div class="slide">
+              <img src="./assets/html.svg" alt="logo html" />
+            </div>
+            <div class="slide">
+              <img src="./assets/bootstrap.svg" alt="logo bootstrap" />
+            </div>
           </div>
         </div>
         <div class="slider">
@@ -454,18 +456,26 @@
             <div class="name-footer">Aaron Cuellar</div>
           </div>
           <div class="footer-redes">
-            <a href="mailto:aaroncuellar2003@gmail.com" aria-label="link gmail"
+            <a
+              class="footer-redes-a"
+              href="mailto:aaroncuellar2003@gmail.com"
+              aria-label="link gmail"
               ><img src="./assets/gmail.svg" alt="logo gmail"
             /></a>
             <a
+              class="footer-redes-a"
               href="https://www.linkedin.com/in/aaron-cuellar-49a1a622a/"
               aria-label="link linkedin"
               ><img src="./assets/linkedin.svg" alt="logo linkedin"
             /></a>
-            <a href="https://wa.me/1130046106" aria-label="link whatsapp"
+            <a
+              class="footer-redes-a"
+              href="https://wa.me/1130046106"
+              aria-label="link whatsapp"
               ><img src="./assets/whatsapp.svg" alt="logo whatsapp"
             /></a>
             <a
+              class="footer-redes-a"
               href="https://github.com/Aaron-Cue"
               target="_blank"
               aria-label="link github"

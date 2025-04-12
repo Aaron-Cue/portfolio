@@ -34,8 +34,8 @@
     rgba(68, 0, 255, 0.6)
   );
   --shadow-divider: #330b68;
-  --shadow-project: rgba(255, 255, 255, 0.05);
-  --shadow-slider: rgb(35, 58, 5);
+  --shadow-project: rgba(16, 51, 80, 0.3);
+  --shadow-slider: rgb(12, 43, 68);
   --shadow-avatar: rgba(85, 85, 85, 0.35);
   --footer-border-a: rgba(128, 128, 128, 0.3);
   --footer-background-a: linear-gradient(
@@ -422,7 +422,7 @@ h1 {
 .project {
   border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 0 8px 2px var(--shadow-project);
+  box-shadow: 0 0 20px 1px var(--shadow-project);
   min-width: 350px;
   max-width: 85%;
 }
@@ -509,7 +509,7 @@ h1 {
   background: var(--background-slider);
   padding-top: 4px;
   position: relative;
-  box-shadow: 0px 5px 13px var(--shadow-slider);
+  box-shadow: 0px 5px 21px var(--shadow-slider);
 }
 
 .slider::before {
@@ -541,7 +541,7 @@ h1 {
 .slider .slide-track {
   display: flex;
   animation: scroll 10s linear infinite;
-  width: calc(100px * 18);
+  width: calc(100px * 20);
 }
 
 .slider .slide {
