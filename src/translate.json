@@ -24,8 +24,14 @@
     "contact": "Contacto",
     "text-contact": "No dudes en comunicarte escribiendo a cualquiera de <a href='' class='a-contact'>mis redes</a> sociales o enviándome un correo. ¡Espero conectar contigo y explorar oportunidades juntos! 📞🚀",
 
-    "title-project-1": "Titulo Proyecto",
-    "description-project-1": "decripcion proyecto Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio cum laudantium magnam, atque nulla placeat fuga saepe neque quaerat, voluptatem dolorem ipsa perspiciatis, quod voluptates perferendis! Est alias repellat ullam!"
+    "title-project-1": "Alinks",
+    "description-project-1": "Alinks es una aplicación web desarrollada con React y Firebase que permite a los usuarios registrarse, gestionar sus propios enlaces y compartir un perfil público con sus links destacados. Utiliza Firebase Authentication para el login con autorregistro, Firestore para el almacenamiento de datos, React Router DOM para la navegación, protegida basada en el estado de autenticación.",
+    "title-project-2": "Weather App",
+    "description-project-2": "Aplicación web desarrollada con React que permite buscar una ciudad y consultar su clima actual, el pronóstico diario para la semana y el pronóstico horario del día. Utiliza una API para obtener las coordenadas a partir del nombre de la ciudad y otra para obtener los datos del clima. Está optimizada con useCallback y useMemo para evitar renders innecesarios, y cuenta con un hook personalizado para manejar las peticiones y respuestas de las APIs",
+    "title-project-3": "Cli Task",
+    "description-project-3": "Aplicación CLI para gestionar tareas, desarrollada en Node.js y conectada a una base de datos MongoDB. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) desde la terminal. Utiliza commander para el manejo de comandos, inquirer para entradas interactivas del usuario, picocolors y chalk para mejorar la visualización con estilos y colores en la consola.",
+    "title-project-4": "Todo App",
+    "description-project-4": "Aplicación web para gestionar tareas, con una interfaz sencilla, rápida e intuitiva. Permite agregar tareas, marcarlas como completadas, eliminarlas y conservarlas gracias a la persistencia de datos en localStorage. Implementa custom hook para manejar el estado de las tareas y sincronizarlas con localStorage automáticamente Construida con React, con una interfaz sencilla y rápida"
   },
   "en": {
     "web": "Web developer from Buenos Aires, Argentina",
@@ -52,7 +58,13 @@
     "contact": "Contact",
     "text-contact": "Do not hesitate to contact me by writing to any of <a href='' class='a-contact'>my</a> social networks or sending me an email. I hope to connect with you and explore opportunities together! 📞🚀",
 
-    "title-project-1": "Title Project",
-    "description-project-1": "decripcion proyecto Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio cum laudantium magnam, atque nulla placeat fuga saepe neque quaerat, voluptatem dolorem ipsa perspiciatis, quod voluptates perferendis! Est alias repellat ullam!"
+    "title-project-1": "ALinks",
+    "description-project-1": "Alinks is a web application built with React and Firebase that allows users to register, manage their personal links, and share a public profile with their featured links. It uses Firebase Authentication for sign-up and login, Firestore for data storage, and React Router DOM for navigation, which is protected based on the authentication state.",
+    "title-project-2": "Weather App",
+    "description-project-2": "A web application built with React that allows users to search for a city and view its current weather, the daily forecast for the week, and the hourly forecast for the day. It uses one API to get coordinates from the city name and another to fetch weather data. The app is optimized with useCallback and useMemo to prevent unnecessary renders, and includes a custom hook to handle API requests and responses.",
+    "title-project-3": "Cli Task",
+    "description-project-3": "A CLI application for managing tasks, developed in Node.js and connected to a MongoDB database. It allows performing CRUD operations (create, read, update, and delete) from the terminal. It uses commander for command handling, inquirer for interactive user inputs, and picocolors and chalk for enhancing visualization with styles and colors in the console.",
+    "title-project-4": "Todo App",
+    "description-project-4": "Web application for managing tasks, featuring a simple, fast, and intuitive interface. It allows users to add tasks, mark them as completed, delete them, and keep them saved thanks to data persistence in localStorage. Implements a custom hook to manage the task state and automatically synchronize it with localStorage. Built with React, with a focus on a clean and responsive UI."
   }
 }
