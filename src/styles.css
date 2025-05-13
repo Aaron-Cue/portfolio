@@ -449,11 +449,6 @@ h1 {
   transition: filter 1s ease;
 }
 
-.img-project,
-.title-project {
-  cursor: pointer;
-}
-
 .title-project {
   color: var(--name-color);
 }
