@@ -1,12 +1,12 @@
-# Portfolio Personal
+# Personal Portfolio
 
-Este es mi portfolio web personal desarrollado con **HTML**, **CSS** y **JavaScript Vanilla**. Es un proyecto liviano y responsivo que muestra información sobre mí,tecnologías que tengo conocimiento, proyectos, y enlaces importantes.
+This is my personal web portfolio developed with **HTML**, **CSS**, and **Vanilla JavaScript**. It’s a lightweight and responsive project that showcases information about me, technologies I’m familiar with, projects, and important links.
 
-## ✨ Características
+## ✨ Features
 
-- 🌗 Tema claro / oscuro
-- 🌍 Idioma español / inglés
-- 👤 Sección "Sobre mí"
-- 💼 Sección proyectos
-- 🛠️ Sección tecnologías.
-- 🔗 Links a mis redes y contacto
+- 🌗 Light / dark theme  
+- 🌍 Spanish / English language support  
+- 👤 "About Me" section  
+- 💼 Projects section  
+- 🛠️ Technologies section  
+- 🔗 Links to my social media and contact information
