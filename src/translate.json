@@ -25,7 +25,7 @@
     "text-contact": "No dudes en comunicarte escribiendo a cualquiera de <a href='' class='a-contact'>mis redes</a> sociales o enviándome un correo. ¡Espero conectar contigo y explorar oportunidades juntos! 📞🚀",
 
     "title-project-1": "Alinks",
-    "description-project-1": "Alinks es una aplicación web desarrollada con React y Firebase que permite a los usuarios registrarse, gestionar sus propios enlaces y compartir un perfil público con sus links destacados. Utiliza Firebase Authentication para el login con autorregistro, Firestore para el almacenamiento de datos, React Router DOM para la navegación, protegida basada en el estado de autenticación.",
+    "description-project-1": "Alinks es una app web hecha en React, TypeScript y Firebase que permite a los usuarios registrarse, gestionar sus propios enlaces y compartir un perfil público con sus links destacados. Utiliza Firebase Authentication para el login con autorregistro, Firestore para el almacenamiento de datos, y React Router DOM para navegación protegida, basada en el estado de autenticación.",
     "title-project-2": "Weather App",
     "description-project-2": "Aplicacion web que permite buscar una ciudad y consultar su clima actual, el pronóstico diario y por hora. Búsqueda de ciudades con autocompletado y debounce utilizando un trie creado a partir de un json local de ciudades comunes. Customhook para obtener y formatear datos meteorológicos por nombre de ciudad llamando a API's, utiliza useCallback.",
     "title-project-3": "Cli Task",
@@ -59,7 +59,7 @@
     "text-contact": "Do not hesitate to contact me by writing to any of <a href='' class='a-contact'>my</a> social networks or sending me an email. I hope to connect with you and explore opportunities together! 📞🚀",
 
     "title-project-1": "ALinks",
-    "description-project-1": "Alinks is a web application built with React and Firebase that allows users to register, manage their personal links, and share a public profile with their featured links. It uses Firebase Authentication for sign-up and login, Firestore for data storage, and React Router DOM for navigation, which is protected based on the authentication state.",
+    "description-project-1": "Alinks is a web app built with React, TypeScript, and Firebase that allows users to register, manage their own links, and share a public profile with their featured links. It uses Firebase Authentication for self-registration login, Firestore for data storage, and React Router DOM for protected navigation based on the authentication state.",
     "title-project-2": "Weather App",
     "description-project-2": "A web application that allows users to search for a city and check its current weather, daily forecast, and hourly forecast. City search includes autocomplete and debounce using a trie built from a local JSON file of common cities. A custom hook is used to fetch and format weather data by city name, calling APIs and utilizing useCallback.",
     "title-project-3": "Cli Task",
