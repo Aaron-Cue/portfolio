@@ -31,7 +31,9 @@
     "title-project-3": "Cli Task",
     "description-project-3": "Aplicación CLI para gestionar tareas, desarrollada en Node.js y conectada a una base de datos MongoDB. Permite realizar operaciones CRUD (crear, leer, actualizar y eliminar) desde la terminal. Utiliza commander para el manejo de comandos, inquirer para entradas interactivas del usuario, picocolors y chalk para mejorar la visualización con estilos y colores en la consola.",
     "title-project-4": "Todo App",
-    "description-project-4": "Aplicación web para gestionar tareas. Permite agregar tareas con título, descripción, fecha límite y prioridad; marcarlas como completadas, editarlas, eliminarlas y filtrarlas por prioridad. Persistencia automatica mediante localStorage. Utiliza un custom hook que combina useReducer con localStorage para manejar el estado, useContext para acceso global, useEffect para sincronización y useRef para referencias en formularios."
+    "description-project-4": "Aplicación web para gestionar tareas. Permite agregar tareas con título, descripción, fecha límite y prioridad; marcarlas como completadas, editarlas, eliminarlas y filtrarlas por prioridad. Persistencia automatica mediante localStorage. Utiliza un custom hook que combina useReducer con localStorage para manejar el estado, useContext para acceso global, useEffect para sincronización y useRef para referencias en formularios.",
+    "title-project-5": "AlgoView",
+    "description-project-5": "AlgoView es una app web para visualizar algoritmos de forma interactiva. Contiene algoritmos de ordenamiento, búsqueda y árboles. Cada vista incluye una animación con controles básicos y una explicación con los pasos, su pseudocódigo y complejidad. También aplica optimizaciones de Next.js con el uso de los componentes Link, Image y carga de fuentes con next/font."
   },
   "en": {
     "web": "Web developer from Buenos Aires, Argentina",
@@ -65,6 +67,8 @@
     "title-project-3": "Cli Task",
     "description-project-3": "A CLI application for managing tasks, developed in Node.js and connected to a MongoDB database. It allows performing CRUD operations (create, read, update, and delete) from the terminal. It uses commander for command handling, inquirer for interactive user inputs, and picocolors and chalk for enhancing visualization with styles and colors in the console.",
     "title-project-4": "Todo App",
-    "description-project-4": "Web application for managing tasks. It allows you to add tasks with a title, description, due date, and priority; mark them as completed, edit, delete, and filter them by priority. Data is automatically saved to localStorage to preserve tasks between sessions. It uses a custom hook that combines useReducer with localStorage to manage state, useContext for global access, useEffect for synchronization, and useRef for handling form references."
+    "description-project-4": "Web application for managing tasks. It allows you to add tasks with a title, description, due date, and priority; mark them as completed, edit, delete, and filter them by priority. Data is automatically saved to localStorage to preserve tasks between sessions. It uses a custom hook that combines useReducer with localStorage to manage state, useContext for global access, useEffect for synchronization, and useRef for handling form references.",
+    "title-project-5": "AlgoView",
+    "description-project-5": "AlgoView is a web app for interactively visualizing algorithms. It includes sorting, searching, and tree algorithms. Each view features an animation with basic controls and an explanation with steps, pseudocode, and complexity. It also leverages Next.js optimizations through the use of Link, Image, and font loading with next/font."
   }
 }
